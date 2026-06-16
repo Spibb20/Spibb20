@@ -16,6 +16,4 @@ Here are some ideas to get you started:
 -->
 ## Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Spibb20&show_icons=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Spibb20&layout=compact)
