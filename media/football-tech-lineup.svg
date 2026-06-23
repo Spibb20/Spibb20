@@ -53,6 +53,35 @@
       fill: #bbf7d0;
       font-weight: 500;
     }
+    .sub {
+  opacity: 0;
+  transform-box: fill-box;
+  transform-origin: center;
+  animation: subAppear 0.5s ease forwards;
+}
+
+@keyframes subAppear {
+  0% {
+    opacity: 0;
+    transform: scale(0.5) translateY(12px);
+  }
+  70% {
+    opacity: 1;
+    transform: scale(1.15) translateY(-4px);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1) translateY(0);
+  }
+}
+
+.sub1 { animation-delay: 3.7s; }
+.sub2 { animation-delay: 3.9s; }
+.sub3 { animation-delay: 4.1s; }
+.sub4 { animation-delay: 4.3s; }
+.sub5 { animation-delay: 4.5s; }
+.sub6 { animation-delay: 4.7s; }
+.sub7 { animation-delay: 4.9s; }
 
     @keyframes appear {
       0% {
@@ -200,4 +229,51 @@
   <text x="450" y="540" font-family="Arial, sans-serif" font-size="14" fill="#94a3b8" text-anchor="middle">
     Building projects like a team: structure, tactics, execution.
   </text>
+
+  <!-- Substitutions bench background -->
+<rect x="110" y="470" width="680" height="50" rx="16" fill="#020617" stroke="#334155" stroke-width="2"/>
+
+<text x="135" y="501"
+      font-family="Arial, sans-serif"
+      font-size="14"
+      font-weight="700"
+      fill="#facc15">
+  SUBSTITUTIONS
+</text>
+
+<!-- Bench players -->
+<g class="sub sub1" transform="translate(265 495)">
+  <circle r="18" fill="#111827" stroke="#facc15" stroke-width="2"/>
+  <text y="4" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="white" text-anchor="middle">Mongo</text>
+</g>
+
+<g class="sub sub2" transform="translate(330 495)">
+  <circle r="18" fill="#111827" stroke="#facc15" stroke-width="2"/>
+  <text y="4" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="white" text-anchor="middle">Clerk</text>
+</g>
+
+<g class="sub sub3" transform="translate(395 495)">
+  <circle r="18" fill="#111827" stroke="#facc15" stroke-width="2"/>
+  <text y="4" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="white" text-anchor="middle">Tailwind</text>
+</g>
+
+<g class="sub sub4" transform="translate(470 495)">
+  <circle r="18" fill="#111827" stroke="#facc15" stroke-width="2"/>
+  <text y="4" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="white" text-anchor="middle">Express</text>
+</g>
+
+<g class="sub sub5" transform="translate(545 495)">
+  <circle r="18" fill="#111827" stroke="#facc15" stroke-width="2"/>
+  <text y="4" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="white" text-anchor="middle">Neon</text>
+</g>
+
+<g class="sub sub6" transform="translate(610 495)">
+  <circle r="18" fill="#111827" stroke="#facc15" stroke-width="2"/>
+  <text y="4" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="white" text-anchor="middle">Gemini</text>
+</g>
+
+<g class="sub sub7" transform="translate(675 495)">
+  <circle r="18" fill="#111827" stroke="#facc15" stroke-width="2"/>
+  <text y="4" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="white" text-anchor="middle">Nx</text>
+</g>
 </svg>
