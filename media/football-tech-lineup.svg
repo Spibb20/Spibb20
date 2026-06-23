@@ -105,73 +105,95 @@
   <rect x="778" y="255" width="42" height="100" class="line"/>
 
   <!-- Goalkeeper -->
-  <g class="player p1" transform="translate(135 305)">
+  <g transform="translate(135 305)">
+  <g class="player p1">
     <circle r="34"/>
     <text y="-5">Git</text>
     <text y="13" class="role">GK</text>
   </g>
+</g>
 
   <!-- Defenders 4 -->
-  <g class="player p2" transform="translate(270 165)">
+  <g transform="translate(270 165)">
+    <g class="player p2">
     <circle r="34"/>
     <text y="-5">HTML</text>
     <text y="13" class="role">LB</text>
+    </g>
   </g>
 
-  <g class="player p3" transform="translate(270 260)">
+  <g transform="translate(270 260)">
+    <g class="player p3">
     <circle r="34"/>
     <text y="-5">CSS</text>
     <text y="13" class="role">CB</text>
+    </g>
   </g>
 
-  <g class="player p4" transform="translate(270 350)">
+  <g transform="translate(270 350)">
+    <g class="player p4">
     <circle r="34"/>
     <text y="-5">JS</text>
     <text y="13" class="role">CB</text>
+    </g>
   </g>
 
-  <g class="player p5" transform="translate(270 445)">
+  <g transform="translate(270 445)">
+    <g class="player p5">
     <circle r="34"/>
     <text y="-5">TS</text>
     <text y="13" class="role">RB</text>
+    </g>
   </g>
 
   <!-- Midfielders 3 -->
-  <g class="player p6" transform="translate(450 215)">
+  <g transform="translate(450 215)">
+    <g class="player p6">
     <circle r="36"/>
     <text y="-5">React</text>
     <text y="13" class="role">CM</text>
+    </g>
   </g>
 
-  <g class="player p7" transform="translate(450 305)">
+  <g transform="translate(450 305)">
+    <g class="player p7">
     <circle r="38"/>
     <text y="-5">Next</text>
     <text y="13" class="role">CAM</text>
+    </g>
   </g>
 
-  <g class="player p8" transform="translate(450 395)">
+  <g transform="translate(450 395)">
+    <g class="player p8">
     <circle r="36"/>
     <text y="-5">Node</text>
     <text y="13" class="role">CM</text>
+    </g>
   </g>
 
   <!-- Forwards 3 -->
-  <g class="player p9" transform="translate(650 200)">
+  <g transform="translate(650 200)">
+    <g class="player p9">
     <circle r="35"/>
     <text y="-5">Prisma</text>
     <text y="13" class="role">LW</text>
+    </g>
   </g>
 
-  <g class="player p10" transform="translate(690 305)">
+  <g transform="translate(690 305)">
+    <g class="player p10">
     <circle r="39"/>
     <text y="-5">Postgres</text>
     <text y="13" class="role">ST</text>
+    </g>
   </g>
 
-  <g class="player p11" transform="translate(650 410)">
+  <g transform="translate(650 410)">
+    <g class="player p11">
     <circle r="35"/>
     <text y="-5">Vercel</text>
     <text y="13" class="role">RW</text>
+    </g>
   </g>
 
   <!-- Bottom label -->
