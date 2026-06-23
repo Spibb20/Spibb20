@@ -1,31 +1,16 @@
-## Hi there
-
-<!--
-**Spibb20/Spibb20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## Stats
+## Helloooooooo! It's Bryaaan
 
 <div align="center">
 
 # ⚽ Code x Football
 
-### Building projects with the mindset of a football player  
+### Building projects with the mindset of a football player
+
 **Discipline • Teamwork • Strategy • Consistency**
 
 ### Tech stack lineup — 4-3-3 formation
 
-<img src="./assets/football-tech-lineup.svg" width="900" />
+<img src="./media/football-tech-lineup.svg" width="900" />
 
 </div>
 
@@ -42,13 +27,13 @@ For me, coding feels like football: you need good positioning, smart decisions, 
 
 ## Football Mindset in Code
 
-| Football | Coding |
-|---|---|
-| Strategy | Planning project structure |
-| Teamwork | Git, GitHub, collaboration |
-| Training | Daily practice and learning |
-| Match analysis | Debugging and improving code |
-| Consistency | Clean commits and stable progress |
+| Football       | Coding                            |
+| -------------- | --------------------------------- |
+| Strategy       | Planning project structure        |
+| Teamwork       | Git, GitHub, collaboration        |
+| Training       | Daily practice and learning       |
+| Match analysis | Debugging and improving code      |
+| Consistency    | Clean commits and stable progress |
 
 ---
 
@@ -76,6 +61,7 @@ For me, coding feels like football: you need good positioning, smart decisions, 
 ## 🚀 Projects
 
 ### 🧑‍💼 Odoo-like Employee Management System
+
 A web application inspired by Odoo ERP Employee module.
 
 - Employee profile management
@@ -85,6 +71,7 @@ A web application inspired by Odoo ERP Employee module.
 - Future-ready for HR module expansion
 
 ### 🤖 AI Quiz / Recipe Assistant
+
 An AI-powered web application using modern web technologies.
 
 - AI text generation
@@ -94,6 +81,7 @@ An AI-powered web application using modern web technologies.
 - Database connection
 
 ### 🍔 Food Delivery Platform
+
 A full-stack food ordering system.
 
 - Product categories
@@ -111,5 +99,3 @@ A full-stack food ordering system.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Spibb20&layout=compact)
 
 </div>
-
-
