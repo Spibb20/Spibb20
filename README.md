@@ -23,6 +23,10 @@ Here are some ideas to get you started:
 ### Building projects with the mindset of a football player  
 **Discipline • Teamwork • Strategy • Consistency**
 
+### Tech stack lineup — 4-3-3 formation
+
+<img src="./assets/football-tech-lineup.svg" width="900" />
+
 </div>
 
 ---
