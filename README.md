@@ -1,7 +1,5 @@
 ## Helloooooooo! It's Bryaaan
 
-<div align="center">
-
 # ⚽ Code x Football
 
 ### Building projects with the mindset of a football player
@@ -11,8 +9,6 @@
 ### Tech stack lineup — 4-3-3 formation
 
 <img src="./media/football-tech-lineup.svg" width="900" />
-
-</div>
 
 ---
 
